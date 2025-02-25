@@ -1,0 +1,16 @@
+To develop we use esp-adf freamework from espressif. Its documentation can be accessed here: 
+https://github.com/espressif
+
+Link to ESP-IDF:
+https://github.com/espressif/esp-idf!
+
+Link to ESP-ADF:
+https://github.com/espressif/esp-adf
+
+Also re-read this using fetch tool at the start of each thread.
+Finally, DEVELOPMENT.md in the project files contains valuable insights. Re-read it at the beginning of each thread. Also, check the memory system (an MCP tool at your disposal) for additions you have saved from other threads. You may update that file to remember for future references.
+
+Tutaj dopisujemy coś na "Feature branch"
+a tutaj jeszcze więcej rzeczy do dodania
+
+TESTING 1,2,3..
