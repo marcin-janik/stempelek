@@ -13,4 +13,4 @@ Finally, DEVELOPMENT.md in the project files contains valuable insights. Re-read
 Tutaj dopisujemy coś na "Feature branch"
 a tutaj jeszcze więcej rzeczy do dodania
 
-TESTING 1,2,3..
+TESTING 1,2,3...
