@@ -19,3 +19,4 @@ a tutaj dodajemy linijkę
 i tutaj coś
 
 teraz pracuję na branchu develop
+i tutaj sobie coś zmieniam na feature branchu
