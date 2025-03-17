@@ -14,3 +14,6 @@ Tutaj dopisujemy coś na "Feature branch"
 a tutaj jeszcze więcej rzeczy do dodania
 
 TESTING 1,2,3...
+a tutaj dodajemy linijkę
+
+i tutaj coś
