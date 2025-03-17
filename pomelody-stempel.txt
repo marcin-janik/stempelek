@@ -17,3 +17,5 @@ TESTING 1,2,3...
 a tutaj dodajemy linijkę
 
 i tutaj coś
+
+teraz pracuję na branchu develop
