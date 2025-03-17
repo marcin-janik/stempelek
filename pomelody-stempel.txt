@@ -20,3 +20,4 @@ i tutaj coś
 
 teraz pracuję na branchu develop
 i kolejne zmiany na developie
+i jeszcze coś dodamy, teraz to ju KONIEC!
